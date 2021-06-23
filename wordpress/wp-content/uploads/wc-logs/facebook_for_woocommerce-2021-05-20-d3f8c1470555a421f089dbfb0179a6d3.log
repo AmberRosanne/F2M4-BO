@@ -1,0 +1,7 @@
+05-20-2021 @ 07:51:04 - Starting upgrade to v2.5.0
+05-20-2021 @ 07:51:04 - Upgrade to v2.5.0 complete
+05-20-2021 @ 08:06:07 - There was an error trying sync products using the Catalog Batch API for job d26d7b3f7a1fc931ec7a2ba9769cb8b3: Cannot create the API instance because the access token is missing.
+05-20-2021 @ 08:07:44 - There was an error trying sync products using the Catalog Batch API for job e7e77db7bbc3fe7842635f7b92afac2e: Cannot create the API instance because the access token is missing.
+05-20-2021 @ 08:18:05 - There was an error trying sync products using the Catalog Batch API for job 03ea47ddc7fca471997af12757e8942b: Cannot create the API instance because the access token is missing.
+05-20-2021 @ 08:19:38 - There was an error trying sync products using the Catalog Batch API for job c9d5c70be3ecc323363b3aba5b873617: Cannot create the API instance because the access token is missing.
+05-20-2021 @ 08:20:19 - There was an error trying sync products using the Catalog Batch API for job 5a8f532cd80645a7fa0dafd113ae8053: Cannot create the API instance because the access token is missing.
